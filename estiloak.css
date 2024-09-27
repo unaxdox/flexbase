@@ -11,10 +11,15 @@
 
 .left {
     flex: 0.25;
-    background-color: lightgreen;
+    padding:30px ;
 }
 
 .right {
     flex: 0.75;
-    background-color: lightblue;
+    padding: 30px;
+    padding: 200px;
 } 
+
+.img{
+    display: block;
+}
